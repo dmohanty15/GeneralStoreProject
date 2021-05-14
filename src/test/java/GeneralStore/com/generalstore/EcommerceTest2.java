@@ -35,6 +35,7 @@ public class EcommerceTest2 extends BaseClass {
 		FunctionUtils.click(homepage.spinner_Argentina);
 		FunctionUtils.text_To_Input(homepage.txtbox_Name, "text");
 		driver.hideKeyboard();
+		
 		FunctionUtils.click(homepage.radio_Female);
 		FunctionUtils.click(homepage.Btn_Letsgo);
 		Thread.sleep(4000);
