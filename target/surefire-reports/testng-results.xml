@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="160227" started-at="2021-05-14T20:50:23 IST" finished-at="2021-05-14T20:53:03 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="160227" started-at="2021-05-14T20:50:23 IST" finished-at="2021-05-14T20:53:03 IST">
+      <class name="GeneralStore.com.generalstore.EcommerceTest2">
+        <test-method status="PASS" signature="ecommerceTest2()[pri:0, instance:GeneralStore.com.generalstore.EcommerceTest2@33f88ab]" name="ecommerceTest2" duration-ms="100003" started-at="2021-05-14T20:50:23 IST" finished-at="2021-05-14T20:52:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecommerceTest2 -->
+      </class> <!-- GeneralStore.com.generalstore.EcommerceTest2 -->
+      <class name="GeneralStore.com.generalstore.EcommerceTest1">
+        <test-method status="PASS" signature="ecommerceTest1()[pri:0, instance:GeneralStore.com.generalstore.EcommerceTest1@2781e022]" name="ecommerceTest1" duration-ms="60152" started-at="2021-05-14T20:52:03 IST" finished-at="2021-05-14T20:53:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecommerceTest1 -->
+      </class> <!-- GeneralStore.com.generalstore.EcommerceTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
